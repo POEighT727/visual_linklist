@@ -1,5 +1,5 @@
 # visual_linklist
-XMU LINUX使用与编程入门课程项目
+XMU LINUX课程项目
 
 **任务需求**
 
